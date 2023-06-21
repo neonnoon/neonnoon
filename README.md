@@ -1,3 +1,1 @@
-![mezzo](mezzo.png)
-
-[Snyk](https://github.com/snyk) | [Mea](https://github.com/kameameta) | [SigHub](http://github.com/SigHub-Cyber-Angel) | [pyrene](https://github.com/open-ch/pyrene)
+![I love to build and run beautiful things with great people.](lovetobuild.png)
